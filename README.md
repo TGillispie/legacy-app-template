@@ -66,5 +66,5 @@ Document application setup instructions in a README.md file or through a deploym
 
 The removal process should take care not to remove any user data, application logs, or config files.  Only remove app code which will be replaced by a new version stored in the repository.
 
-## Identify missing modules
+## Identify Missing Modules
 Run code directly or via the main entry point when hosted by a web server to find missing modules and libraries.  Document those missing files.  If building an environment, update the current environment to include those modules and libraries.
